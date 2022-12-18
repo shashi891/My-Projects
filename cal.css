@@ -1,0 +1,66 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#mainDiv {
+    border: 3px solid;
+    width: 347px;
+ 
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(107, 62, 7);
+   margin-top: 50px;
+}
+
+.heading{
+    text-align: center;
+    margin-bottom: 3px;
+  color: white;
+    margin-bottom: 39px;
+    margin-top: 56px;
+}
+
+.textInput {
+    text-align: center;
+
+}
+
+#myInpt {
+    text-align: right;
+    height: 81px;
+    width: 336px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color:rgb(12, 221, 221);
+    border: 3px solid black;
+}
+
+.mainTable {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-collapse: separate;
+}
+
+button {
+
+    background-color: rgb(105, 220, 220);
+    font-size: 18px;
+   
+    border: 3px solid black;
+    width: 76px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+td {
+    padding: 4px;
+
+}
+button:hover{
+    font-size: 25px;
+    background-color: rgb(0, 255, 132);
+
+}
